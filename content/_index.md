@@ -14,6 +14,4 @@ Mis expectativas para este proyecto son:
 -Aplicar los conocimientos de FrontEnd (HTML, CSS, JavaScript) <br />
 -Entender BackEnd <br />
 
-
-
 🚀
