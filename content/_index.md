@@ -9,10 +9,10 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son:
 
--Aprender sobre Git y GitHub
--Aprender JavaScript
--Aplicar los conocimientos de FrontEnd (HTML, CSS, JavaScript)
--Entender BackEnd
+-Aprender sobre Git y GitHub <br />
+-Aprender JavaScript <br />
+-Aplicar los conocimientos de FrontEnd (HTML, CSS, JavaScript) <br />
+-Entender BackEnd <br />
 
 
 
