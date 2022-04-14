@@ -7,15 +7,19 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+¡Hola!, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Soy César Piloto
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+Tengo 28 años y soy de SLP.
+Soy Ingeniero Biomédico de la UASLP, TSU de la UTSLP y una especialidad francesa en Hidráulica Industrial de L'université Henri Poincare
+Me gustan mucho los animales, en mi familia hemos adoptado 3 gatitos y 4 perros, también tengo una tortuga de 14 años que compré en mi primer trabajo de cerillito del Aurrera.
+Me gustan mucho las máquinas como los tornos, fresadoras y más aún las de control numérico.
+Mi sueño es comprarme un centro de maquinado.
+Me gusta la programación aunque no soy ningún experto, pero me encanta aprender sobre esto.
+Me gustan las películas de Marvel, Harry Potter, Señor de los Anillos y muchas más.
+Me gustan los libros de John Katzenbach.
+También me gusta reparar cosas de cualquier tipo.
+Actualmente trabajo para una empresa de Estados Unidos en modalidad de Home Office y quise aprender a programar para ver si algun día mis oportunidades de empleo aumentan.
 
+¡Gracias a todos los que hicieron posible este curso y por compartir sus conocimientos!
